@@ -27,7 +27,7 @@ export const Todolist = () => {
 
   return (
     <div>
-    <h1>Get things done</h1>
+    <h1>Srujana</h1>
       <TodoForm addTodos={addTodos} />
       {todos.map((todo, index) => (
         <Todo
